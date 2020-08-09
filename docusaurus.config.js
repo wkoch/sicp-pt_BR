@@ -76,7 +76,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Creative Commons  ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Creative Commons Atribuição-Compartilha Igual 4.0 Internacional ${new Date().getFullYear()} SICP Português Brasileiro.`,
     },
   },
   presets: [
@@ -85,7 +85,7 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'doc1',
+          homePageId: 'intro/capa',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:

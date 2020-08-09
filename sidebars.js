@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    SICP: ['doc1', 'doc2', 'doc3', 'doc4'],
-    Features: ['mdx'],
+    Intro: ['intro/capa', 'intro/folha-rosto', 'intro/dedicacao', 'intro/prologo', 'intro/prefacio2', 'intro/prefacio1'],
+    "Capítulo 1": ['cap1', 'cap1.1'],
   },
 };

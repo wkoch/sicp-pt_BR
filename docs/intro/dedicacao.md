@@ -1,5 +1,5 @@
 ---
-id: doc3
+id: dedicacao
 title: Dedicação
 ---
 

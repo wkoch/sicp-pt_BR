@@ -1,5 +1,5 @@
 ---
-id: doc2
+id: folha-rosto
 title: Folha de Rosto
 ---
 
@@ -46,7 +46,7 @@ Segunda edição
 
 ### Licença Creative Commons
 
-[![Esta obra está licenciado com uma Licença Creative Commons Atribuição-Compartilha Igual 4.0 Internacional.](../static/img/cc-badge.png "Esta obra está licenciado com uma Licença Creative Commons Atribuição-Compartilha Igual 4.0 Internacional.")](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Esta obra está licenciado com uma Licença Creative Commons Atribuição-Compartilha Igual 4.0 Internacional.](../../static/img/cc-badge.png "Esta obra está licenciado com uma Licença Creative Commons Atribuição-Compartilha Igual 4.0 Internacional.")](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Estrutura e Interpretação de Programas de Computador por Harold Abelson e Gerald Jay Sussman com Julie Sussman, traduzido por William Koch, é licenciado sob a Licença Creative Commons Attribution-ShareAlike 4.0 International pela Editora MIT.
 
