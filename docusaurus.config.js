@@ -41,7 +41,7 @@ module.exports = {
             },
             {
               label: 'Capítulo 1',
-              to: 'docs/doc2/',
+              to: 'docs/cap1/',
             },
           ],
         },
